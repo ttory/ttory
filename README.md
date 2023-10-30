@@ -1,3 +1,2 @@
 Hi, I’m @ttory 👋 <br>
-✨I’m working as QAL engineer in b2b projects✨<br>
-🌱 I’m currently learning qa automation(java) with selenium and junit5
+✨I’m working as manual SQA engineer in b2b and b2c projects for 4 years✨<br>
