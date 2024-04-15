@@ -1,4 +1,5 @@
-# Приветствие 
+# Hello!
+I am a dynamic and meticulous Senior QA Manual Engineer with over 4 years of professional experience in fast-paced B2B projects.
 
 <div align="center">
 
@@ -6,12 +7,16 @@
   
 </div>
 
-## Обо мне
-Ответственный ручной тестировщик с опытом работы более 4 лет в различных b2b/b2c проектах, специализирующийся на тестировании WEB и API. Также я успешно организовывала работу команды тестирования в роли лида.
-Умею эффективно взаимодействовать с руководителями, разработчиками и коллегами, строить процессы внутри команды, внедрять новые инструменты, отслеживать успехи проекта и готовить его к сдаче заказчику.
+## What i do
+- web testing
+- creation of main test documentation(test plan, test result report, error report, etc.) 
+- manual | black box | grey box | regression | smoke | integration | functional | UAT | sanity testing
+- improvement of the quality process
+- coordination of quality control with all team members
+- onboarding of an employee
 
 
-## Инструменты и технологии
+## Tools that I use in my work
 
 
 <p align="left">
@@ -48,7 +53,7 @@
 
 </p>
 
-## Мои контакты
+## My links
 
 [![Linkedin: victory-polyanskaya](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victory-polyanskaya)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Tory_Tay)
