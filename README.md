@@ -7,7 +7,7 @@ I am a dynamic and meticulous Senior QA Manual Engineer with over 4 years of pro
   
 </div>
 
-## What i do
+## What I do
 - web testing
 - creation of main test documentation(test plan, test result report, error report, etc.) 
 - manual | black box | grey box | regression | smoke | integration | functional | UAT | sanity testing
